@@ -1,0 +1,1 @@
+run_command: python openvoice/openvoice_app.py
